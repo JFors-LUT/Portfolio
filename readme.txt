@@ -1,3 +1,5 @@
+Collection of my larger course work projects. Smaller assignments and repositories can be found at https://github.com/JFors-LUT?tab=repositories
+
 https://github.com/ainoal/olio_harkkatyo
 Mobile app for object oriented coding done in collaboration. My main tasks were co2_calculato and draw_tool. 
 In addition to main tasks helped with other backend code functionality while others focused more on creating the frontend.
